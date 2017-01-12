@@ -1,2 +1,2 @@
 # ejercicio_2
-EL PROYECTO TRATA SOBRE LOS ESTANDARES DE CODIGO QUE SE USAN ACTUALMENTE EN EL DESARROLLO DE SOFTWARE.
+EL proyecto se trata sobre boxeo "Vuela como mariposa, pica como abeja."
